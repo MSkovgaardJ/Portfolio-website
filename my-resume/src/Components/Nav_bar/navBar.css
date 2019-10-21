@@ -1,8 +1,12 @@
 .navbarContainer{
-    width:100%;
-    padding: 1em;
     align-items: center;
     position: fixed;
+    color: #4f4f4f;
+    display: flex;
+    padding:2em;
+    width:98%;
 }
-
-
+.navbarContainer span{
+    font-size: 36px;
+    width: 92%;
+}

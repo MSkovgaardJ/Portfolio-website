@@ -10,7 +10,6 @@ class navBar extends React.Component {
   render() {
     return (
       <div className="navbarContainer">
-          <span>Morten Skovaard Jensen</span>
           <Overlay></Overlay>
       </div>
         
