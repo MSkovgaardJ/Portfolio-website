@@ -1,0 +1,10 @@
+.navbarContainer{
+    width: 100%;
+    position: none;
+    display: flex;
+}
+
+.menuPoints{
+    display: inline-flex;
+    float: right;
+}
